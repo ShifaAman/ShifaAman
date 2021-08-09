@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShifaAman
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning skills for data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: MailID- shifaaman09@gmail.com
 
 <!---
